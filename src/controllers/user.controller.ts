@@ -22,6 +22,6 @@ export default class UserController {
     @route("/:id")
     @DELETE()
     async remove(req: Request, res: Response) {
-        // ToDo
+        //  ToDo
     }
 }
